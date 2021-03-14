@@ -1,14 +1,14 @@
-# ShallotNetwork
+## ShallotNetwork
+Created by Remco Royen, Mathias De Roover, Quinten Deliens and Guylian Molineaux for the course 'Communication Networks: Protocols and Architectures' at the Bruface Faculty (VUB + ULB)
 
 
-	SHALLOT NETWORK
-===============================
+### Introduction
+
+This project creates a 'virtual' Shallot network allowing ... .
+
+### Installation
 
 The shallot network is built using Python 3.6.3.
-
-
-A) Libraries installation guide
----------------------------------
 
  - Cryptography:
 In the command line type: "pip install cryptography"
@@ -19,17 +19,14 @@ In the command line type: "pip install PyCryptoDome"
 (Or "py -3 -m pip install PyCryptoDome"  or "pip3 install PyCryptoDome" when running multiple versions of Python)
 
 
-OPTIONAL: B) Network initialisation
----------------------------------
+OPTIONAL: Network initialisation
 
 1. Open "config\host.ini" and "config\topology.ini"
 2. Add/remove relays and change their neighbors (under [topology])
 (Always make sure there is a path (via relays) from Alice to Bob and that there are no unconnected nodes!)
 
-
-B) Running the network
----------------------------------
-
+### Usage
 From the command line, run "Shallot_Network.py" (using Python version 3!)
 
-
+### License
+Our code is released under MIT License (see LICENSE file for details).
