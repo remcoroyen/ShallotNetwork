@@ -1,5 +1,5 @@
 ## ShallotNetwork
-Created by Remco Royen, Mathias De Roover, Quinten Deliens and Guylian Molineaux for the course 'Communication Networks: Protocols and Architectures' at the Bruface Faculty (VUB + ULB)
+Created by Remco Royen, Mathias De Roover, Quinten Deliens and Guylian Molineaux in 2017 for the course 'Communication Networks: Protocols and Architectures' at the Bruface Faculty (VUB + ULB)
 
 
 ### Introduction
